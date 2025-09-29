@@ -14,8 +14,8 @@ A simple, responsive login page built with **React**, **Tailwind CSS**, and **Ax
 ## 📸 Preview
 
 > _Add a screenshot or GIF of your login UI here._
-![Uploading image.png…]()
 
+![Login Screenshot](./leadTrack/Screenshot%202025-09-29%20174803.png)
 ---
 
 ## 🧩 Features
